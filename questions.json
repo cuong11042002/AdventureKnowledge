@@ -1,0 +1,1012 @@
+{
+  "Math": [
+    {
+      "question": "2 + 2 bằng bao nhiêu? (Câu 1)",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Căn bậc hai của 16 là? (Câu 2)",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "5 x 6 bằng? (Câu 3)",
+      "options": [
+        "30",
+        "11",
+        "56",
+        "25"
+      ],
+      "answer": "30"
+    },
+    {
+      "question": "10 chia 2 bằng? (Câu 4)",
+      "options": [
+        "2",
+        "5",
+        "10",
+        "20"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "10 chia 2 bằng? (Câu 5)",
+      "options": [
+        "2",
+        "5",
+        "10",
+        "20"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "2 + 2 bằng bao nhiêu? (Câu 6)",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "5 x 6 bằng? (Câu 7)",
+      "options": [
+        "30",
+        "11",
+        "56",
+        "25"
+      ],
+      "answer": "30"
+    },
+    {
+      "question": "2 + 2 bằng bao nhiêu? (Câu 8)",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Căn bậc hai của 16 là? (Câu 9)",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "2 + 2 bằng bao nhiêu? (Câu 10)",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "2 + 2 bằng bao nhiêu? (Câu 11)",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "5 x 6 bằng? (Câu 12)",
+      "options": [
+        "30",
+        "11",
+        "56",
+        "25"
+      ],
+      "answer": "30"
+    },
+    {
+      "question": "2 + 2 bằng bao nhiêu? (Câu 13)",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "2 + 2 bằng bao nhiêu? (Câu 14)",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "2 + 2 bằng bao nhiêu? (Câu 15)",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "5 x 6 bằng? (Câu 16)",
+      "options": [
+        "30",
+        "11",
+        "56",
+        "25"
+      ],
+      "answer": "30"
+    },
+    {
+      "question": "10 chia 2 bằng? (Câu 17)",
+      "options": [
+        "2",
+        "5",
+        "10",
+        "20"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Căn bậc hai của 16 là? (Câu 18)",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "5 x 6 bằng? (Câu 19)",
+      "options": [
+        "30",
+        "11",
+        "56",
+        "25"
+      ],
+      "answer": "30"
+    },
+    {
+      "question": "5 x 6 bằng? (Câu 20)",
+      "options": [
+        "30",
+        "11",
+        "56",
+        "25"
+      ],
+      "answer": "30"
+    }
+  ],
+  "Science": [
+    {
+      "question": "Tốc độ ánh sáng là? (Câu 1)",
+      "options": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "1,000 km/s",
+        "100,000 km/s"
+      ],
+      "answer": "300,000 km/s"
+    },
+    {
+      "question": "Trái đất quay quanh gì? (Câu 2)",
+      "options": [
+        "Mặt Trời",
+        "Mặt Trăng",
+        "Sao Hỏa",
+        "Sao Kim"
+      ],
+      "answer": "Mặt Trời"
+    },
+    {
+      "question": "Trái đất quay quanh gì? (Câu 3)",
+      "options": [
+        "Mặt Trời",
+        "Mặt Trăng",
+        "Sao Hỏa",
+        "Sao Kim"
+      ],
+      "answer": "Mặt Trời"
+    },
+    {
+      "question": "Cơ quan hô hấp là? (Câu 4)",
+      "options": [
+        "Phổi",
+        "Gan",
+        "Tim",
+        "Thận"
+      ],
+      "answer": "Phổi"
+    },
+    {
+      "question": "Nước có công thức là? (Câu 5)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "answer": "H2O"
+    },
+    {
+      "question": "Trái đất quay quanh gì? (Câu 6)",
+      "options": [
+        "Mặt Trời",
+        "Mặt Trăng",
+        "Sao Hỏa",
+        "Sao Kim"
+      ],
+      "answer": "Mặt Trời"
+    },
+    {
+      "question": "Trái đất quay quanh gì? (Câu 7)",
+      "options": [
+        "Mặt Trời",
+        "Mặt Trăng",
+        "Sao Hỏa",
+        "Sao Kim"
+      ],
+      "answer": "Mặt Trời"
+    },
+    {
+      "question": "Nước có công thức là? (Câu 8)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "answer": "H2O"
+    },
+    {
+      "question": "Nước có công thức là? (Câu 9)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "answer": "H2O"
+    },
+    {
+      "question": "Cơ quan hô hấp là? (Câu 10)",
+      "options": [
+        "Phổi",
+        "Gan",
+        "Tim",
+        "Thận"
+      ],
+      "answer": "Phổi"
+    },
+    {
+      "question": "Nước có công thức là? (Câu 11)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "answer": "H2O"
+    },
+    {
+      "question": "Tốc độ ánh sáng là? (Câu 12)",
+      "options": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "1,000 km/s",
+        "100,000 km/s"
+      ],
+      "answer": "300,000 km/s"
+    },
+    {
+      "question": "Nước có công thức là? (Câu 13)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "answer": "H2O"
+    },
+    {
+      "question": "Cơ quan hô hấp là? (Câu 14)",
+      "options": [
+        "Phổi",
+        "Gan",
+        "Tim",
+        "Thận"
+      ],
+      "answer": "Phổi"
+    },
+    {
+      "question": "Nước có công thức là? (Câu 15)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "answer": "H2O"
+    },
+    {
+      "question": "Trái đất quay quanh gì? (Câu 16)",
+      "options": [
+        "Mặt Trời",
+        "Mặt Trăng",
+        "Sao Hỏa",
+        "Sao Kim"
+      ],
+      "answer": "Mặt Trời"
+    },
+    {
+      "question": "Cơ quan hô hấp là? (Câu 17)",
+      "options": [
+        "Phổi",
+        "Gan",
+        "Tim",
+        "Thận"
+      ],
+      "answer": "Phổi"
+    },
+    {
+      "question": "Trái đất quay quanh gì? (Câu 18)",
+      "options": [
+        "Mặt Trời",
+        "Mặt Trăng",
+        "Sao Hỏa",
+        "Sao Kim"
+      ],
+      "answer": "Mặt Trời"
+    },
+    {
+      "question": "Nước có công thức là? (Câu 19)",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
+      "answer": "H2O"
+    },
+    {
+      "question": "Trái đất quay quanh gì? (Câu 20)",
+      "options": [
+        "Mặt Trời",
+        "Mặt Trăng",
+        "Sao Hỏa",
+        "Sao Kim"
+      ],
+      "answer": "Mặt Trời"
+    }
+  ],
+  "History": [
+    {
+      "question": "Năm kết thúc chiến tranh TG2? (Câu 1)",
+      "options": [
+        "1945",
+        "1939",
+        "1954",
+        "1975"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question": "Vua đầu tiên của VN là? (Câu 2)",
+      "options": [
+        "Hùng Vương",
+        "Lê Lợi",
+        "Gia Long",
+        "Trần Hưng Đạo"
+      ],
+      "answer": "Hùng Vương"
+    },
+    {
+      "question": "Bà Trưng, Bà Triệu khởi nghĩa chống ai? (Câu 3)",
+      "options": [
+        "Nhà Hán",
+        "Nhà Tống",
+        "Nhà Minh",
+        "Nhà Thanh"
+      ],
+      "answer": "Nhà Hán"
+    },
+    {
+      "question": "Năm kết thúc chiến tranh TG2? (Câu 4)",
+      "options": [
+        "1945",
+        "1939",
+        "1954",
+        "1975"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question": "Năm kết thúc chiến tranh TG2? (Câu 5)",
+      "options": [
+        "1945",
+        "1939",
+        "1954",
+        "1975"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question": "Vua đầu tiên của VN là? (Câu 6)",
+      "options": [
+        "Hùng Vương",
+        "Lê Lợi",
+        "Gia Long",
+        "Trần Hưng Đạo"
+      ],
+      "answer": "Hùng Vương"
+    },
+    {
+      "question": "Năm kết thúc chiến tranh TG2? (Câu 7)",
+      "options": [
+        "1945",
+        "1939",
+        "1954",
+        "1975"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question": "Bà Trưng, Bà Triệu khởi nghĩa chống ai? (Câu 8)",
+      "options": [
+        "Nhà Hán",
+        "Nhà Tống",
+        "Nhà Minh",
+        "Nhà Thanh"
+      ],
+      "answer": "Nhà Hán"
+    },
+    {
+      "question": "Năm kết thúc chiến tranh TG2? (Câu 9)",
+      "options": [
+        "1945",
+        "1939",
+        "1954",
+        "1975"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question": "Năm kết thúc chiến tranh TG2? (Câu 10)",
+      "options": [
+        "1945",
+        "1939",
+        "1954",
+        "1975"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question": "Vua đầu tiên của VN là? (Câu 11)",
+      "options": [
+        "Hùng Vương",
+        "Lê Lợi",
+        "Gia Long",
+        "Trần Hưng Đạo"
+      ],
+      "answer": "Hùng Vương"
+    },
+    {
+      "question": "Bà Trưng, Bà Triệu khởi nghĩa chống ai? (Câu 12)",
+      "options": [
+        "Nhà Hán",
+        "Nhà Tống",
+        "Nhà Minh",
+        "Nhà Thanh"
+      ],
+      "answer": "Nhà Hán"
+    },
+    {
+      "question": "Người lập ra triều Nguyễn? (Câu 13)",
+      "options": [
+        "Gia Long",
+        "Lê Lợi",
+        "Trần Nhân Tông",
+        "Hồ Quý Ly"
+      ],
+      "answer": "Gia Long"
+    },
+    {
+      "question": "Vua đầu tiên của VN là? (Câu 14)",
+      "options": [
+        "Hùng Vương",
+        "Lê Lợi",
+        "Gia Long",
+        "Trần Hưng Đạo"
+      ],
+      "answer": "Hùng Vương"
+    },
+    {
+      "question": "Vua đầu tiên của VN là? (Câu 15)",
+      "options": [
+        "Hùng Vương",
+        "Lê Lợi",
+        "Gia Long",
+        "Trần Hưng Đạo"
+      ],
+      "answer": "Hùng Vương"
+    },
+    {
+      "question": "Bà Trưng, Bà Triệu khởi nghĩa chống ai? (Câu 16)",
+      "options": [
+        "Nhà Hán",
+        "Nhà Tống",
+        "Nhà Minh",
+        "Nhà Thanh"
+      ],
+      "answer": "Nhà Hán"
+    },
+    {
+      "question": "Năm kết thúc chiến tranh TG2? (Câu 17)",
+      "options": [
+        "1945",
+        "1939",
+        "1954",
+        "1975"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question": "Vua đầu tiên của VN là? (Câu 18)",
+      "options": [
+        "Hùng Vương",
+        "Lê Lợi",
+        "Gia Long",
+        "Trần Hưng Đạo"
+      ],
+      "answer": "Hùng Vương"
+    },
+    {
+      "question": "Vua đầu tiên của VN là? (Câu 19)",
+      "options": [
+        "Hùng Vương",
+        "Lê Lợi",
+        "Gia Long",
+        "Trần Hưng Đạo"
+      ],
+      "answer": "Hùng Vương"
+    },
+    {
+      "question": "Người lập ra triều Nguyễn? (Câu 20)",
+      "options": [
+        "Gia Long",
+        "Lê Lợi",
+        "Trần Nhân Tông",
+        "Hồ Quý Ly"
+      ],
+      "answer": "Gia Long"
+    }
+  ],
+  "Geography": [
+    {
+      "question": "Châu lục lớn nhất? (Câu 1)",
+      "options": [
+        "Châu Á",
+        "Châu Âu",
+        "Châu Phi",
+        "Châu Mỹ"
+      ],
+      "answer": "Châu Á"
+    },
+    {
+      "question": "Châu lục lớn nhất? (Câu 2)",
+      "options": [
+        "Châu Á",
+        "Châu Âu",
+        "Châu Phi",
+        "Châu Mỹ"
+      ],
+      "answer": "Châu Á"
+    },
+    {
+      "question": "Thủ đô Việt Nam là? (Câu 3)",
+      "options": [
+        "Hà Nội",
+        "Hồ Chí Minh",
+        "Đà Nẵng",
+        "Huế"
+      ],
+      "answer": "Hà Nội"
+    },
+    {
+      "question": "Sông dài nhất thế giới là? (Câu 4)",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Hồng Hà",
+        "Mekong"
+      ],
+      "answer": "Nile"
+    },
+    {
+      "question": "Thủ đô Việt Nam là? (Câu 5)",
+      "options": [
+        "Hà Nội",
+        "Hồ Chí Minh",
+        "Đà Nẵng",
+        "Huế"
+      ],
+      "answer": "Hà Nội"
+    },
+    {
+      "question": "Biển Đông nằm ở đâu? (Câu 6)",
+      "options": [
+        "Việt Nam",
+        "Thái Lan",
+        "Trung Quốc",
+        "Philippines"
+      ],
+      "answer": "Việt Nam"
+    },
+    {
+      "question": "Thủ đô Việt Nam là? (Câu 7)",
+      "options": [
+        "Hà Nội",
+        "Hồ Chí Minh",
+        "Đà Nẵng",
+        "Huế"
+      ],
+      "answer": "Hà Nội"
+    },
+    {
+      "question": "Sông dài nhất thế giới là? (Câu 8)",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Hồng Hà",
+        "Mekong"
+      ],
+      "answer": "Nile"
+    },
+    {
+      "question": "Biển Đông nằm ở đâu? (Câu 9)",
+      "options": [
+        "Việt Nam",
+        "Thái Lan",
+        "Trung Quốc",
+        "Philippines"
+      ],
+      "answer": "Việt Nam"
+    },
+    {
+      "question": "Thủ đô Việt Nam là? (Câu 10)",
+      "options": [
+        "Hà Nội",
+        "Hồ Chí Minh",
+        "Đà Nẵng",
+        "Huế"
+      ],
+      "answer": "Hà Nội"
+    },
+    {
+      "question": "Biển Đông nằm ở đâu? (Câu 11)",
+      "options": [
+        "Việt Nam",
+        "Thái Lan",
+        "Trung Quốc",
+        "Philippines"
+      ],
+      "answer": "Việt Nam"
+    },
+    {
+      "question": "Thủ đô Việt Nam là? (Câu 12)",
+      "options": [
+        "Hà Nội",
+        "Hồ Chí Minh",
+        "Đà Nẵng",
+        "Huế"
+      ],
+      "answer": "Hà Nội"
+    },
+    {
+      "question": "Sông dài nhất thế giới là? (Câu 13)",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Hồng Hà",
+        "Mekong"
+      ],
+      "answer": "Nile"
+    },
+    {
+      "question": "Sông dài nhất thế giới là? (Câu 14)",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Hồng Hà",
+        "Mekong"
+      ],
+      "answer": "Nile"
+    },
+    {
+      "question": "Thủ đô Việt Nam là? (Câu 15)",
+      "options": [
+        "Hà Nội",
+        "Hồ Chí Minh",
+        "Đà Nẵng",
+        "Huế"
+      ],
+      "answer": "Hà Nội"
+    },
+    {
+      "question": "Thủ đô Việt Nam là? (Câu 16)",
+      "options": [
+        "Hà Nội",
+        "Hồ Chí Minh",
+        "Đà Nẵng",
+        "Huế"
+      ],
+      "answer": "Hà Nội"
+    },
+    {
+      "question": "Châu lục lớn nhất? (Câu 17)",
+      "options": [
+        "Châu Á",
+        "Châu Âu",
+        "Châu Phi",
+        "Châu Mỹ"
+      ],
+      "answer": "Châu Á"
+    },
+    {
+      "question": "Châu lục lớn nhất? (Câu 18)",
+      "options": [
+        "Châu Á",
+        "Châu Âu",
+        "Châu Phi",
+        "Châu Mỹ"
+      ],
+      "answer": "Châu Á"
+    },
+    {
+      "question": "Thủ đô Việt Nam là? (Câu 19)",
+      "options": [
+        "Hà Nội",
+        "Hồ Chí Minh",
+        "Đà Nẵng",
+        "Huế"
+      ],
+      "answer": "Hà Nội"
+    },
+    {
+      "question": "Sông dài nhất thế giới là? (Câu 20)",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Hồng Hà",
+        "Mekong"
+      ],
+      "answer": "Nile"
+    }
+  ],
+  "Literature": [
+    {
+      "question": "'Rừng xà nu' do ai viết? (Câu 1)",
+      "options": [
+        "Nguyễn Trung Thành",
+        "Nguyễn Huy Tưởng",
+        "Nam Cao",
+        "Ngô Tất Tố"
+      ],
+      "answer": "Nguyễn Trung Thành"
+    },
+    {
+      "question": "'Rừng xà nu' do ai viết? (Câu 2)",
+      "options": [
+        "Nguyễn Trung Thành",
+        "Nguyễn Huy Tưởng",
+        "Nam Cao",
+        "Ngô Tất Tố"
+      ],
+      "answer": "Nguyễn Trung Thành"
+    },
+    {
+      "question": "Tác phẩm Lão Hạc của? (Câu 3)",
+      "options": [
+        "Nam Cao",
+        "Ngô Tất Tố",
+        "Tô Hoài",
+        "Vũ Trọng Phụng"
+      ],
+      "answer": "Nam Cao"
+    },
+    {
+      "question": "Tác phẩm Lão Hạc của? (Câu 4)",
+      "options": [
+        "Nam Cao",
+        "Ngô Tất Tố",
+        "Tô Hoài",
+        "Vũ Trọng Phụng"
+      ],
+      "answer": "Nam Cao"
+    },
+    {
+      "question": "Tác giả Truyện Kiều? (Câu 5)",
+      "options": [
+        "Nguyễn Du",
+        "Nguyễn Trãi",
+        "Hồ Xuân Hương",
+        "Tố Hữu"
+      ],
+      "answer": "Nguyễn Du"
+    },
+    {
+      "question": "Tác phẩm Lão Hạc của? (Câu 6)",
+      "options": [
+        "Nam Cao",
+        "Ngô Tất Tố",
+        "Tô Hoài",
+        "Vũ Trọng Phụng"
+      ],
+      "answer": "Nam Cao"
+    },
+    {
+      "question": "Nhân vật chính trong 'Chí Phèo'? (Câu 7)",
+      "options": [
+        "Chí Phèo",
+        "Thị Nở",
+        "Bá Kiến",
+        "Lão Hạc"
+      ],
+      "answer": "Chí Phèo"
+    },
+    {
+      "question": "'Rừng xà nu' do ai viết? (Câu 8)",
+      "options": [
+        "Nguyễn Trung Thành",
+        "Nguyễn Huy Tưởng",
+        "Nam Cao",
+        "Ngô Tất Tố"
+      ],
+      "answer": "Nguyễn Trung Thành"
+    },
+    {
+      "question": "Tác giả Truyện Kiều? (Câu 9)",
+      "options": [
+        "Nguyễn Du",
+        "Nguyễn Trãi",
+        "Hồ Xuân Hương",
+        "Tố Hữu"
+      ],
+      "answer": "Nguyễn Du"
+    },
+    {
+      "question": "Tác giả Truyện Kiều? (Câu 10)",
+      "options": [
+        "Nguyễn Du",
+        "Nguyễn Trãi",
+        "Hồ Xuân Hương",
+        "Tố Hữu"
+      ],
+      "answer": "Nguyễn Du"
+    },
+    {
+      "question": "Tác phẩm Lão Hạc của? (Câu 11)",
+      "options": [
+        "Nam Cao",
+        "Ngô Tất Tố",
+        "Tô Hoài",
+        "Vũ Trọng Phụng"
+      ],
+      "answer": "Nam Cao"
+    },
+    {
+      "question": "Tác giả Truyện Kiều? (Câu 12)",
+      "options": [
+        "Nguyễn Du",
+        "Nguyễn Trãi",
+        "Hồ Xuân Hương",
+        "Tố Hữu"
+      ],
+      "answer": "Nguyễn Du"
+    },
+    {
+      "question": "Tác phẩm Lão Hạc của? (Câu 13)",
+      "options": [
+        "Nam Cao",
+        "Ngô Tất Tố",
+        "Tô Hoài",
+        "Vũ Trọng Phụng"
+      ],
+      "answer": "Nam Cao"
+    },
+    {
+      "question": "'Rừng xà nu' do ai viết? (Câu 14)",
+      "options": [
+        "Nguyễn Trung Thành",
+        "Nguyễn Huy Tưởng",
+        "Nam Cao",
+        "Ngô Tất Tố"
+      ],
+      "answer": "Nguyễn Trung Thành"
+    },
+    {
+      "question": "Nhân vật chính trong 'Chí Phèo'? (Câu 15)",
+      "options": [
+        "Chí Phèo",
+        "Thị Nở",
+        "Bá Kiến",
+        "Lão Hạc"
+      ],
+      "answer": "Chí Phèo"
+    },
+    {
+      "question": "Tác giả Truyện Kiều? (Câu 16)",
+      "options": [
+        "Nguyễn Du",
+        "Nguyễn Trãi",
+        "Hồ Xuân Hương",
+        "Tố Hữu"
+      ],
+      "answer": "Nguyễn Du"
+    },
+    {
+      "question": "Tác giả Truyện Kiều? (Câu 17)",
+      "options": [
+        "Nguyễn Du",
+        "Nguyễn Trãi",
+        "Hồ Xuân Hương",
+        "Tố Hữu"
+      ],
+      "answer": "Nguyễn Du"
+    },
+    {
+      "question": "Tác giả Truyện Kiều? (Câu 18)",
+      "options": [
+        "Nguyễn Du",
+        "Nguyễn Trãi",
+        "Hồ Xuân Hương",
+        "Tố Hữu"
+      ],
+      "answer": "Nguyễn Du"
+    },
+    {
+      "question": "Nhân vật chính trong 'Chí Phèo'? (Câu 19)",
+      "options": [
+        "Chí Phèo",
+        "Thị Nở",
+        "Bá Kiến",
+        "Lão Hạc"
+      ],
+      "answer": "Chí Phèo"
+    },
+    {
+      "question": "Nhân vật chính trong 'Chí Phèo'? (Câu 20)",
+      "options": [
+        "Chí Phèo",
+        "Thị Nở",
+        "Bá Kiến",
+        "Lão Hạc"
+      ],
+      "answer": "Chí Phèo"
+    }
+  ]
+}
